@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/menuMapaMain"
+        android:icon="@drawable/ic_map"
+        android:orderInCategory="100"
+        android:title="Map"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menuPlatges"
+        android:icon="@drawable/ic_platges"
+        android:orderInCategory="200"
+        android:title="Beaches"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menuInfo"
+        android:icon="@drawable/ic_info"
+        android:orderInCategory="300"
+        android:title="Info"
+        app:showAsAction="always" />
+
+</menu>

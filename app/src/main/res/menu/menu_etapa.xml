@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="net.mervil.camidecavalls.EtapaActivity">
+
+    <item
+        android:id="@+id/etapaMapaIcon"
+        android:orderInCategory="100"
+        android:title="@string/mapa_etapa"
+        android:icon="@drawable/ic_map"
+        app:showAsAction="always|withText" />
+
+</menu>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camí Cavalls</string>
+    <string name="tram">Path</string>
+    <string name="trams">Roads</string>
+    <string name="llocs">Attractions</string>
+    <string name="sabies">Did you know...?</string>
+    <string name="facil">Easy</string>
+    <string name="mitja">Medium</string>
+    <string name="dificil">Hard</string>
+    <string name="distancia">DISTANCE</string>
+    <string name="duracio">DURATION</string>
+    <string name="dificultat">DIFFICULTY</string>
+    <string name="info">Information</string>
+    <string name="platges">Beaches</string>
+    <string name="platges_search">Search beaches...</string>
+    <string name="mapa">Map</string>
+    <string name="mapa_etapa">Path\'s map</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="avis">Notice</string>
+
+    <string name="title_activity_etapa">Etapa</string>
+    <string name="title_activity_lloc">Lloc</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="title_activity_mapa_total">Mapa total</string>
+    <string name="title_activity_platges">PlatgesActivity</string>
+    <string name="title_activity_infos">InfosActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_mapa_platja">Map</string>
+</resources>
